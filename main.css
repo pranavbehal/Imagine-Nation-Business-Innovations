@@ -2282,6 +2282,6 @@ body {
 
   .credits-video {
     width: 80%;
-    margin: auto;
+    height: auto;
   }
 }
