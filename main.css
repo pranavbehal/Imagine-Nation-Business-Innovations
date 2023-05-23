@@ -2260,3 +2260,11 @@ body {
     width: 65%;
   }
 }
+
+.parents-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  margin-bottom: 50px;
+}
