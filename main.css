@@ -2270,8 +2270,8 @@ body {
 }
 
 .credits-video {
-  height: 960px;
-  width: 540px;
+  height: 540px;
+  width: 960px;
 }
 
 @media only screen and (max-width: 1000px) {
